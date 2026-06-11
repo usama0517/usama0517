@@ -80,6 +80,7 @@ Continuously improving my skills in software engineering, system design, and art
 ## Contact
 
 * LinkedIn: [Usama Abdurahman LinkedIn](https://www.linkedin.com/in/usama-abdurahman-631213284?utm_source=chatgpt.com)
+* Email: [usamaabdurahman05@gmail.com](mailto:usamaabdurahman05@gmail.com)
 
 ---
 
@@ -89,4 +90,3 @@ Continuously improving my skills in software engineering, system design, and art
 * Work on AI-driven applications
 * Contribute to impactful real-world software
 * Join a strong engineering team and grow professionally
-
