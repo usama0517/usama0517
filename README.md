@@ -1,79 +1,85 @@
 # Usama Abdurahman
 
-Software Engineer | Backend-focused Full-Stack Developer | Problem Solver
+Backend-Focused Software Engineer | Full-Stack Developer | Systems Builder
 
 ---
 
-## About Me
+## Profile Summary
 
-I am a Software Engineer based in Addis Ababa, Ethiopia, with a strong focus on backend development and full-stack application building.
+Software Engineer specializing in backend systems and full-stack application development.
 
-I can work across the entire software lifecycle—from requirement analysis to designing, building, and deploying production-grade applications.
+I design and build production-oriented software systems from requirements to deployment, with a strong focus on scalability, reliability, and real-world usability.
 
-I am a recent graduate with hands-on project experience and currently seeking a full-time software engineering role.
+Recent graduate with hands-on engineering experience and actively seeking a Software Engineer role.
+
+Based in Addis Ababa, Ethiopia.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-* Python
-* JavaScript
-* TypeScript
-* Java
-* C#
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
 
-**Backend**
+### Backend
 
-* Node.js (Express)
-* Spring Boot
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
-**Frontend**
+### Frontend
 
-* React
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-**Databases**
+### Databases
 
-* PostgreSQL
-* MySQL
-* MongoDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-**Tools & DevOps**
+### Tools & DevOps
 
-* Docker
-* Git
-* Linux
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
 ## Featured Project
 
-### Stockio
+### Stockio — Production Inventory System
 
-A real-world inventory and sales management system used in a working shop.
+A real-world inventory, sales, and profit tracking system currently used in a working retail shop.
 
-* Records and tracks sales
-* Manages inventory in real time
-* Calculates profit and loss
-* Helps business owners make informed decisions
+* End-to-end business system (sales → inventory → profit/loss)
+* Real-time inventory tracking
+* Business intelligence for decision making
+* Actively used in production environment
 
-This project is important to me because it is actively used in a real business environment and has solved an actual problem.
+**Impact:** Solved a real operational problem for a business owner.
 
 ---
 
 ## Interests
 
-* Backend Engineering
+* Backend System Design
+* Scalable Architecture
 * AI & Machine Learning
 
-Currently learning AI through a 6-month program at QIYAS.
+Currently pursuing a 6-month AI program at QIYAS.
 
 ---
 
-## Education & Learning
+## GitHub Stats
 
-Continuously improving my skills in software engineering, system design, and artificial intelligence.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usama0517\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usama0517\&layout=compact\&theme=radical)
 
 ---
 
@@ -84,9 +90,6 @@ Continuously improving my skills in software engineering, system design, and art
 
 ---
 
-## Goals
+## Career Objective
 
-* Build scalable backend systems
-* Work on AI-driven applications
-* Contribute to impactful real-world software
-* Join a strong engineering team and grow professionally
+Seeking a Software Engineer role where I can contribute to building production-grade backend systems, scalable architectures, and AI-powered solutions while continuously growing in a high-performance engineering environment.
